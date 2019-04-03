@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="20dp"
+    android:orientation="horizontal"
+    android:background="#e1f1cb"
+    >
+
+    <Button
+        android:id="@+id/load_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="설정"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/load_btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="삭제"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/load_btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="불러오기"
+        android:onClick="onClick"/>
+
+
+</LinearLayout>
+
+    <EditText
+        android:id="@+id/edit_title_write"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="제목을 입력하세요."
+        android:background="#e1f1cb"
+        android:layout_weight="5" />
+    <EditText
+        android:id="@+id/edit_contents_write"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:background="#efedbf"
+        android:hint="내용을 입력하세요."
+        android:gravity="top"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="17"
+        android:background="#e1f1cb">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:text="저장"
+            android:background="#7faaef"
+            android:id="@+id/save_btn_write"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
