@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="resId">
+        <item>@drawable/blossom</item>
+        <item>@drawable/lily</item>
+        <item>@drawable/lily</item>
+        <item>@drawable/lily</item>
+        <item>@drawable/lily</item>
+        <item>@drawable/lily</item>
+        <item>@drawable/lily</item>
+        <item>@drawable/lily</item>
+    </integer-array>
+
+    <string-array name="title">
+        <item>테마1</item>
+        <item>테마2</item>
+        <item>테마3</item>
+        <item>테마4</item>
+        <item>테마5</item>
+        <item>테마6</item>
+        <item>테마7</item>
+        <item>테마8</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>테마입니다.</item>
+        <item>황량한 사막입니다.</item>
+        <item>예쁜 수국입니다.</item>
+        <item>투명한 해파리입니다.</item>
+        <item>귀여운 코알라입니다.</item>
+        <item>멋진 등대입니다.</item>
+        <item>사이좋은 펭귄입니다.</item>
+        <item>노란 튤립입니다.</item>
+    </string-array>
+</resources>

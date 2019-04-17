@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lily"
+    android:padding="20dp">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="20dp"
+    android:orientation="horizontal"
+
+    >
+
+    <Button
+        android:id="@+id/load_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_weight="1"
+        android:onClick="onClick"
+        android:fontFamily="@font/maplestorybold"
+        android:text="설정" />
+
+    <Button
+        android:id="@+id/load_btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:fontFamily="@font/maplestorybold"
+        android:text="삭제"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/load_btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:fontFamily="@font/maplestorybold"
+        android:text="불러오기"
+        android:onClick="onClick"/>
+
+
+</LinearLayout>
+
+    <EditText
+        android:id="@+id/edit_title_write"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#8cfffff"
+        android:textSize="20dp"
+        android:hint="내용을 입력하세요."
+        android:layout_weight="5" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="15">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:fontFamily="@font/maplestorybold"
+            android:text="저장"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="35dp"
+            android:background="#8ca8e2f7"
+            android:id="@+id/save_btn_write"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
