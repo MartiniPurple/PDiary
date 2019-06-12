@@ -4,11 +4,15 @@ P-Diary 어플로 누구나 쉽게 사용할수 있는 어플리케이션을 제
 
 
 <h1>팀원 Team</h1>
-<div>
+
  
 ![1](https://user-images.githubusercontent.com/48500390/59329649-51153d00-8d2a-11e9-978b-343a5196a558.PNG)
-  </div>
+  
 
 
+<div>
+ ![image](https://user-images.githubusercontent.com/48500390/59329739-98033280-8d2a-11e9-9d88-808c48486ae8.png)
+
+ </div>
 
 
