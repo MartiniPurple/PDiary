@@ -19,7 +19,6 @@ P-Diary 어플로 누구나 쉽게 사용할수 있는 어플리케이션을 제
 ![image](https://user-images.githubusercontent.com/48500390/59331409-dac70980-8d2e-11e9-82d8-8514a99543be.png)
 ![image](https://user-images.githubusercontent.com/48500390/59331744-9daf4700-8d2f-11e9-95e4-9dffc3673813.png)
 
-![image](https://user-images.githubusercontent.com/48500390/59331860-e49d3c80-8d2f-11e9-995f-034f9c995ec7.png)
 
 
 
