@@ -11,7 +11,9 @@ P-Diary 어플로 누구나 쉽게 사용할수 있는 어플리케이션을 제
 
 
 <div>
- ![image](https://user-images.githubusercontent.com/48500390/59329739-98033280-8d2a-11e9-9d88-808c48486ae8.png)
+ 
+ ![yo](https://user-images.githubusercontent.com/48500390/59329836-d0a30c00-8d2a-11e9-86cb-785085b7a8e5.PNG)
+
 
  </div>
 
