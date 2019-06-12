@@ -13,8 +13,16 @@ P-Diary 어플로 누구나 쉽게 사용할수 있는 어플리케이션을 제
 <div>
 
  ![yo](https://user-images.githubusercontent.com/48500390/59331116-12818180-8d2e-11e9-9998-8aa715fa0570.PNG)
- 처음에는 스타트 버튼을 눌러서 넘어가면 가운데에 밑에 버튼들이 나오는 화면입니다.
+ 처음에는 스타트 버튼을 눌러서 넘어가면 버튼들이 나오는 화면입니다.
 ![Ho](https://user-images.githubusercontent.com/48500390/59330100-7c4c5c00-8d2b-11e9-90b5-c26e3a5d344c.PNG)
+그런다음에 테마목록 화면입니다...
+![image](https://user-images.githubusercontent.com/48500390/59331409-dac70980-8d2e-11e9-82d8-8514a99543be.png)
+![image](https://user-images.githubusercontent.com/48500390/59331744-9daf4700-8d2f-11e9-95e4-9dffc3673813.png)
+
+![image](https://user-images.githubusercontent.com/48500390/59331860-e49d3c80-8d2f-11e9-995f-034f9c995ec7.png)
+
+
+
 
  </div>
 
