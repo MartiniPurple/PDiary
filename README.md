@@ -5,7 +5,8 @@ P-Diary 어플로 누구나 쉽게 사용할수 있는 어플리케이션을 제
 
 <h1>팀원 Team</h1>
 <div>
-  ![캡처](https://user-images.githubusercontent.com/48500390/59329460-e106b700-8d29-11e9-87d4-6c942e6715e2.PNG)
+ 
+![1](https://user-images.githubusercontent.com/48500390/59329649-51153d00-8d2a-11e9-978b-343a5196a558.PNG)
   </div>
 
 
