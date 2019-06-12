@@ -4,3 +4,6 @@ P-Diary 어플로 누구나 쉽게 사용할수 있는 어플리케이션을 제
 
 
 <h1>팀원 Team</h1>
+![image](https://user-images.githubusercontent.com/48500390/59329409-c3d1e880-8d29-11e9-8507-7f716fc3f81c.png)
+
+
