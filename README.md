@@ -12,7 +12,7 @@ P-Diary 어플로 누구나 쉽게 사용할수 있는 어플리케이션을 제
 
 <div>
 
- ![yo](Users\kopqr\Desktop\Ho.PNG)
+ ![yo](Users\kopqr\Desktop\Ho\yo.PNG)
 ![Ho](https://user-images.githubusercontent.com/48500390/59330100-7c4c5c00-8d2b-11e9-90b5-c26e3a5d344c.PNG)
 
  </div>
